@@ -9,3 +9,26 @@ Features:
 * Dynamically changing color coding system
 * Save content to come back to at a later time
 
+![Work Day Scheduler - Google Chrome 7_30_2020 11_25_29 AM](https://user-images.githubusercontent.com/65383133/88961411-d96dde80-d259-11ea-8735-f996dfcb1810.png)
+![Work Day Scheduler - Google Chrome 7_30_2020 11_26_02 AM](https://user-images.githubusercontent.com/65383133/88961416-da067500-d259-11ea-98bb-256be49d3430.png)
+![Work Day Scheduler - Google Chrome 7_30_2020 11_26_17 AM](https://user-images.githubusercontent.com/65383133/88961417-da9f0b80-d259-11ea-9163-08c8add01446.png)
+
+Copyright (c) 2020 David Lindner
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
