@@ -1,0 +1,76 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    width:750px;
+    padding-top: 30px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+
+  
+  .time-block{
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+  }
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: black;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: black;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: black;
+  }
+
+  #save-icon{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  button{
+      text-decoration: none;
+      border: none;
+      background-color: aqua;
+      outline: none;
+  }
+  
+  #footer{
+      height:100px;
+  }
+
+  textarea:focus, button:focus{
+      outline: none;
+  }
